@@ -44,4 +44,5 @@ Nebula выделяется среди других инструментов:
 
 ## Мы работаем в Confluence и Jira
 Jira: https://task-track-web-app.atlassian.net/jira/software/projects/SCRUM/issues/
+
 Confluence: https://task-track-web-app.atlassian.net/wiki/spaces/KB/pages
